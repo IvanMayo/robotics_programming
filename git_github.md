@@ -60,6 +60,8 @@ Isolating work in branches, changing context, and integrating changes
 **git log**
 >show all commits in the current branch’s history
 
+**Commands from git hub for new repositories and uploading files** 
+
 **create a new repository on the command line**
 >git init
 >git add README.md
