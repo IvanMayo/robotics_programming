@@ -118,3 +118,5 @@
 **cd .. :** changes to the parent directory
 
 **cd dirname:** changes directory
+ ** Pull from Ivan**
+
